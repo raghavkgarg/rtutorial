@@ -6,4 +6,4 @@ s=2
 g=4
 d = s+g
 d
-print("Hello")
+print("Hello doctor")
